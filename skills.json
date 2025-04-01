@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Machine learning",
+        "icon": "https://img.icons8.com/?size=100&id=ErmeMIUGMycn&format=png&color=000000"
+    },
+    {
+        "name": "AI",
+        "icon": "https://img.icons8.com/?size=100&id=kTuxVYRKeKEY&format=png&color=000000"
+    },
+    {
+        "name": "SQL",
+        "icon": "https://img.icons8.com/?size=100&id=m4jPUWKxN9UY&format=png&color=000000"
+    },
+    {
+        "name": "R",
+        "icon": "https://img.icons8.com/?size=100&id=8So5dzkyCsKs&format=png&color=000000//img.icons8.com/color/48/000000/html-5--v1.png"
+    },
+    {
+        "name": "Tableau",
+        "icon": "https://img.icons8.com/?size=100&id=OftIUKyv1EQY&format=png&color=000000"
+    },
+    {
+        "name": "Excel",
+        "icon": "https://img.icons8.com/?size=100&id=Zqbsmrf1X9LT&format=png&color=000000"
+    },
+    {
+        "name": "JAVA",
+        "icon": "https://img.icons8.com/?size=100&id=GPfHz0SM85FX&format=png&color=000000"
+    },
+    {
+        "name": "Git",
+        "icon": "https://img.icons8.com/color/48/000000/git.png"
+    },
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    },
+    {
+        "name": "VS Code",
+        "icon": "https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000"
+    }
+]
